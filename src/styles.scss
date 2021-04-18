@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+/**
+  * @tokens SCSS Colors
+  * @presenter Color
+  */
+
+  $brand: $b500;
+/**
+  * @tokens SCSS Colors
+  * @presenter Color
+  */
+
+  $b500: #00f; /* Token Description Example */
+  $g500: #0f0;
+  $r500: #f00 !default;
+  $function: rgba(255, 255, 0, 0.5);
+  $sass-function: lighten($brand, 0.5);
