@@ -1,0 +1,23 @@
+{
+  "name": "myscssdesigntokens",
+  "version": "0.0.1",
+  "description": "Design Token SCSS files",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markzither/myscssdesigntokens.git"
+  },
+  "keywords": [
+    "scss",
+    "design tokens"
+  ],
+  "author": "markzither",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markzither/myscssdesigntokens/issues"
+  },
+  "homepage": "https://github.com/markzither/myscssdesigntokens#readme"
+}
